@@ -1,0 +1,9 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.panel {
+    float: left;
+    width: 25%;
+}

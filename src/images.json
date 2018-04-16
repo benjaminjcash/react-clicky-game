@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name" : "Paul McCartney",
+        "clicked" : false,
+        "link" : "https://img00.deviantart.net/7789/i/2015/223/8/b/paul_mccartney_psychedelic_by_alejandroluisi-d959gq3.png"
+    },
+    {
+        "id": 2,
+        "name": "Jimi Hendrix",
+        "clicked" : false,
+        "link" : "https://images.shazam.com/coverart/t59395272-b1318809351_s400.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Jim Morrison",
+        "clicked" : false,
+        "link" : "https://themadmusicasylum.files.wordpress.com/2014/07/the_doors-jim_morrison-10.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Janice Joplin",
+        "clicked" : false,
+        "link" : "https://www.musiconvinyl.com/fotos/550_foto1_product_groot.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jerry Garcia",
+        "clicked" : false,
+        "link": "https://images.wolfgangsvault.com/jerry-garcia/fine-art-print/memorabilia/BWP0007-03-FP.jpg"
+    },
+    {
+        "id": 6,
+        "name" : "Neil Young",
+        "clicked" : false,
+        "link": "https://i.pinimg.com/736x/6f/0f/f9/6f0ff9c0830c0e4e283eddead1b7700c--young-art-neil-young.jpg"
+    },
+    {
+        "id": 7,
+        "name" : "Grace Slick",
+        "clicked" : false,
+        "link": "https://render.fineartamerica.com/images/rendered/default/poster/6.875/8.000/break/images/artworkimages/medium/1/grace-slick-otis-porritt.jpg"
+    },
+    {
+        "id": 8,
+        "name" : "Brian Jones",
+        "clicked" : false,
+        "link": "http://amazon.clikpic.com/modenough/images/brian_jones_edit.jpg"
+    },
+    {
+        "id": 9,
+        "name" : "Syd Barrett",
+        "clicked" : false,
+        "link": "http://realitysandwich.com/wp-content/uploads/2014/07/221511-syd_barrett_square.jpg"
+    },
+    {
+        "id":10,
+        "name" : "Eric Clapton",
+        "clicked" : false,
+        "link": "https://render.fineartamerica.com/images/rendered/default/print/8.000/8.000/break/images/artworkimages/medium/1/eric-clapton-portrait-yury-malkov.jpg"
+    },
+    {
+        "id": 11,
+        "name" : "Carlos Santana",
+        "clicked" : false,
+        "link" : "https://render.fineartamerica.com/images/rendered/default/poster/8.000/8.000/break/images-medium-5/carlos-santana-art-marvin-blaine.jpg"
+    },
+    {
+        "id": 12,
+        "name" : "Jimmy Page",
+        "clicked" : false,
+        "link" : "https://www.comicsvalue.com/pix/20151011/191713413024.jpg"
+    }
+]
